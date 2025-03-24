@@ -1,4 +1,4 @@
-[![Yaro1214](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Yaro1214)
+[![Yaro1214](https://img.shields.io/badge/Yaro1214-github-blue?logo=github)](https://github.com/Yaro1214)
 
 #### Blog
 [无源领域自适应综述](https://zhuanlan.zhihu.com/p/31275864051)
