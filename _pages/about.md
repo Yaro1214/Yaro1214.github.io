@@ -27,22 +27,35 @@ Welcome to my personal website!  I am Yaojie Zhang , a senior majoring in Softwa
 
 # 📝 Publications (* denotes the equal contribution.)
 
-Preprint
-sym
-dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-Zhiyuan Liu *, Yicun Yang *, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.
+[Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/abs/2510.09309)
 
-Pioneered dLLM-Cache, a novel approach to accelerate diffusion large language models (dLLMs) by leveraging adaptive caching techniques.
-dLLM-Cache achieves up to 9.1x speedup over standard dLLM pipelines, with no performance loss on most tasks.
-Project GitHub stars
+Jianuo Huang *, **Yaojie Zhang** *, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui Liu, Linfeng Zhang
 
-Preprint
-sym
-Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles
+</div>
+</div>
 
-Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, Dongrui Liu, Linfeng Zhang.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848)
+
+Qingyan Wei, **Yaojie Zhang**, Zhiyuan Liu, Dongrui Liu, Linfeng Zhang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching](https://arxiv.org/abs/2506.06295)
+
+Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025* National Scholarship (国家奖学金)
