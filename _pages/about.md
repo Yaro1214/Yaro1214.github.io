@@ -27,7 +27,7 @@ Welcome to my personal website!  I am Yaojie Zhang , a senior majoring in Softwa
 
 # 📝 Publications (* denotes the equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/maskKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/abs/2510.09309)
@@ -37,7 +37,7 @@ Jianuo Huang *, **Yaojie Zhang** *, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/slowfast-sampling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848)
