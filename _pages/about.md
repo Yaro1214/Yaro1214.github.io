@@ -66,5 +66,5 @@ Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan W
 - *2023.08 - 2027.06*,  University of Electronic Science and Technology of China, Bachelor of Software Engineering
 
 # 💻 Internships
-- *2025.08 - Present*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)).
+- *2025.03 - Present*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)).
 
