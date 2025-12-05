@@ -23,7 +23,7 @@ Welcome to my personal website!  I am Yaojie Zhang , a senior majoring in Softwa
 - *2025.10*: &nbsp;🎉 We released the paper "Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference".
 - *2025.07*: &nbsp;🎉 We released the paper "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles".
 - *2025.05*: &nbsp;🎉 We released the paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching".
-- *2024.03*: &nbsp;🤗 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Efficient Inference Methods.
+- *2025.03*: &nbsp;🤗 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Efficient Inference Methods.
 
 # 📝 Publications (* denotes the equal contribution.)
 
