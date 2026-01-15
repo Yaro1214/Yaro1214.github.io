@@ -59,6 +59,7 @@ Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan W
 
 # 🎖 Honors and Awards
 - *2025* National Scholarship (国家奖学金)
+- *2025* Tencent Scholarship (腾讯企业奖学金)
 - *2024* National Scholarship (国家奖学金)
 - *2024* Virtuos Corporate Scholarship (维塔士企业奖学金)
 
