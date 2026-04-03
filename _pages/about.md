@@ -20,6 +20,8 @@ redirect_from:
 Welcome to my personal website!  I am Yaojie Zhang , a senior majoring in Software Engineering at University of Electronic Science and Technology of China.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper accepted to ICLR 2026.
+- *2026.01*: &nbsp;🎉 We released the technical report "Innovator-VL:A Multimodal Large Language Model for Scientific Discovery".
 - *2025.10*: &nbsp;🎉 We released the paper "Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference".
 - *2025.07*: &nbsp;🎉 We released the paper "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles".
 - *2025.05*: &nbsp;🎉 We released the paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching".
@@ -37,7 +39,7 @@ Jianuo Huang *, **Yaojie Zhang** *, Yicun Yang, Benhao Huang, Biqing Qi, Dongrui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/slowfast-sampling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/slowfast-sampling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848)
@@ -53,6 +55,16 @@ Qingyan Wei, **Yaojie Zhang**, Zhiyuan Liu, Dongrui Liu, Linfeng Zhang.
 [dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching](https://arxiv.org/abs/2506.06295)
 
 Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/innovator_vl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Innovator-VL:A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/pdf/2601.19325)
+
+Zichen Wen*, Boxue Yang*, Shuang Chen, **Yaojie Zhang**, ..., Weinan E, Linfeng Zhang, Linfeng Zhang.
 
 </div>
 </div>
