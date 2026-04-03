@@ -64,7 +64,7 @@ Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan W
 
 [Innovator-VL:A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/pdf/2601.19325)
 
-Zichen Wen*, Boxue Yang*, Shuang Chen, **Yaojie Zhang**, ..., Weinan E, Linfeng Zhang, Linfeng Zhang.
+Zichen Wen *, Boxue Yang *, Shuang Chen, **Yaojie Zhang**, ..., Weinan E, Linfeng Zhang, Linfeng Zhang.
 
 </div>
 </div>
