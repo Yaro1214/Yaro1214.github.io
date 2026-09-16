@@ -119,11 +119,11 @@ Zichen Wen *, Boxue Yang *, Shuang Chen, **Yaojie Zhang**, et al.
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *2026* CCF Elite Collegiate Award (CCF优秀大学生)
-- *2026* Sichuan Provincial College Student Comprehensive Quality A Level Certificate (四川省大学生“综合素质A级证书”)
-- *2025* National Scholarship (国家奖学金)
+- *2026* CCF Elite Collegiate Award (CCF优秀大学生; 103 awardees nationwide)
+- *2025* Sichuan Provincial College Student Comprehensive Quality A Level Certificate (四川省大学生“综合素质A级证书”)
+- *2025* National Scholarship (国家奖学金; Top 0.4% nationwide)
 - *2025* Tencent Scholarship (腾讯企业奖学金)
-- *2024* National Scholarship (国家奖学金)
+- *2024* National Scholarship (国家奖学金; Top 0.4% nationwide)
 - *2024* Virtuos Corporate Scholarship (维塔士企业奖学金)
 
 <span class='anchor' id='education'></span>
