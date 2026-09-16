@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Yaojie Zhang, a senior undergraduate majoring in Software Engineering at the University of Electronic Science and Technology of China (UESTC). In Fall 2027, I will join the School of Computer Science at Peking University as an M.S. student, advised by Prof. [Xupeng Miao](https://hsword.github.io/). Previously, I was a research intern at the EPIC Lab, Shanghai Jiao Tong University, advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/).
 
-My research focuses on efficient inference and serving for large language models, with a particular interest in diffusion language models, speculative decoding, and KV-cache optimization. I aim to develop practical algorithms and systems that make language model generation faster and more memory-efficient without compromising output quality.
+My research focuses on efficient inference and serving for large language models, including both autoregressive language models and diffusion language models. I am particularly interested in speculative decoding, feature caching, and cache optimization. My goal is to develop practical algorithms and systems that accelerate language model generation, reduce memory usage, and preserve output quality.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 Our paper "Domino" was accepted to EMNLP 2026.
