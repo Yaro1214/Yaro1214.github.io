@@ -21,6 +21,8 @@ Hi! I am Yaojie Zhang, a senior undergraduate majoring in Software Engineering a
 
 My research focuses on efficient inference and serving for large language models, including both autoregressive language models and diffusion language models. I am particularly interested in speculative decoding, feature caching, and cache optimization. My goal is to develop practical algorithms and systems that accelerate language model generation, reduce memory usage, and preserve output quality.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2026.09*: &nbsp;🎉 Our paper "Domino" was accepted to EMNLP 2026.
 - *2026.09*: &nbsp;🎉 We released the paper "DFlow: Enabling Verifier Information Flow in Block Diffusion Speculative Decoding".
@@ -33,6 +35,8 @@ My research focuses on efficient inference and serving for large language models
 - *2025.07*: &nbsp;🎉 We released the paper "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles".
 - *2025.05*: &nbsp;🎉 We released the paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching".
 - *2025.03*: &nbsp;🤗 Started a research internship at EPIC Lab, Shanghai Jiao Tong University, focusing on efficient inference methods.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications (* denotes equal contribution.)
 
@@ -96,6 +100,8 @@ Zhiyuan Liu *, Yicun Yang *, **Yaojie Zhang**, Junjie Chen, Chang Zou, Qingyan W
 </div>
 </div>
 
+<span class='anchor' id='open-source-projects'></span>
+
 # 🛠 Open-source Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source</div><img src='images/innovator_vl.png' alt="Innovator-VL" width="100%"></div></div>
@@ -110,15 +116,21 @@ Zichen Wen *, Boxue Yang *, Shuang Chen, **Yaojie Zhang**, et al.
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2025* National Scholarship (国家奖学金)
 - *2025* Tencent Scholarship (腾讯企业奖学金)
 - *2024* National Scholarship (国家奖学金)
 - *2024* Virtuos Corporate Scholarship (维塔士企业奖学金)
 
+<span class='anchor' id='education'></span>
+
 # 📖 Education
 - *2027.09 - 2030.06*, Peking University, M.S. in Computer Science (Advised by Prof. [Xupeng Miao](https://hsword.github.io/))
 - *2023.08 - 2027.06*, University of Electronic Science and Technology of China, B.E. in Software Engineering
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2025.03 - 2026.07*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)).
