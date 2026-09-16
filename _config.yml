@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yaojie Zhang"
-description              : "Student at University of Electronic Science and Technology of China."
+description              : "Yaojie Zhang's academic homepage. Research on efficient inference for large language models."
 repository               : "Yaro1214/Yaro1214.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yaojie Zhang"
   avatar           : "images/image.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "UESTC | Incoming M.S. student at Peking University"
   location         : "China"
   employer         :
   pubmed           : 
